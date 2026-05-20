@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![Version](https://img.shields.io/github/v/tag/hadriansecurity/openhack?label=version)](https://github.com/hadriansecurity/openhack/releases)
+[![Version: 0.1.0](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/hadriansecurity/openhack/releases/tag/v0.1.0)
 
 `openhack` is a set of agents and tools that mimics how the
 Hadrian research team performs automated vulnerability research. The methodology
@@ -430,6 +430,16 @@ openhack validate-run <target> <run-id>
 
 See [`AGENTS.md`](AGENTS.md), [`CONTRIBUTING.md`](CONTRIBUTING.md), and
 [`docs/OPERATING_MODEL.md`](docs/OPERATING_MODEL.md) for deeper documentation.
+
+---
+
+## About Hadrian
+
+[Hadrian](https://hadrian.io/) is an offensive security company building
+agentic AI systems for attack surface discovery, adversarial exposure
+validation, and automated penetration testing. Hadrian's platform uses
+autonomous agents to continuously find, verify, and prioritize exploitable
+security risks across modern attack surfaces.
 
 ---
 
